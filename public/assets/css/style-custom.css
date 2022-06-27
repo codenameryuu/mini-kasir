@@ -1,0 +1,32 @@
+@media only screen and (min-width:1400px) {
+    .container {
+        max-width: 760px;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+    .container {
+        max-width: 740px;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .container {
+        max-width: 720px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .container {
+        max-width: 580px;
+    }
+}
+
+.border_radius_10 {
+    border-radius: 10px;
+}
+
+.img-preview {
+    width: 50px;
+    height: 50px;
+}
